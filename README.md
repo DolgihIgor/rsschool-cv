@@ -1,1 +1,1 @@
-# rsschool-cv
+https://dolgihigor.github.io/rsschool-cv/cv
