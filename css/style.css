@@ -13,15 +13,15 @@ body {
 }
 
 .header {
-    
+    color:aqua;
 }
 
 .main {
-    
+    margin-left: 20px;
 }
 
 .footer {
-    
+    margin-left: 20px;
 }
 
 .container {
@@ -79,4 +79,8 @@ html {
 
   .section h2 {
     color: blue;
+  }
+
+  .logo-rss {
+    height: 40px;
   }
